@@ -10,7 +10,7 @@ Else it will inform user to check `Internet Conection`<br><br>
 If `GPS` is Enabled it will track user gps and display user location on the map <br>
 Else it will request user to enable `GPS`<br><br>
 
-If user added reviews before, it will be displayed as Markers on the Map.<br><br><br>
+If user added reviews before, it will be displayed as Markers on the Map.<br><br>
 
 
 If user clicks on a place on the map it will navigate to `Pick Place Builder`<br>
