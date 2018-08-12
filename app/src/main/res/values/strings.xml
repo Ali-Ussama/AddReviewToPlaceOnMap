@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoTask</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="pick_place">Pick Place</string>
+</resources>
