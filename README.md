@@ -39,7 +39,7 @@ When user submit the review it's added to Firebase Database and A marker added t
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2017 Ali Ussama
+Copyright 2018 Ali Ussama
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
